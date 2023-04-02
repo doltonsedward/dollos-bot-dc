@@ -1,0 +1,17 @@
+{
+  "name": "dollos-bot-dc",
+  "version": "1.0.0",
+  "description": "Testing bot for DC",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "main": "index.js",
+  "author": "Doltons",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
